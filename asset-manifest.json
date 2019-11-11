@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.b100e6da.chunk.css",
-    "main.js": "/static/js/main.165bde4a.chunk.js",
-    "main.js.map": "/static/js/main.165bde4a.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.aec5ed95.js",
-    "runtime-main.js.map": "/static/js/runtime-main.aec5ed95.js.map",
-    "static/js/2.418949fb.chunk.js": "/static/js/2.418949fb.chunk.js",
-    "static/js/2.418949fb.chunk.js.map": "/static/js/2.418949fb.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.699b50616e87e89cce6dbc62718c1d41.js": "/precache-manifest.699b50616e87e89cce6dbc62718c1d41.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "/static/css/main.b100e6da.chunk.css.map",
-    "static/media/logo.svg": "/static/media/logo.25bf045c.svg"
+    "main.css": "/xmasshuffle/static/css/main.b100e6da.chunk.css",
+    "main.js": "/xmasshuffle/static/js/main.af65ca55.chunk.js",
+    "main.js.map": "/xmasshuffle/static/js/main.af65ca55.chunk.js.map",
+    "runtime-main.js": "/xmasshuffle/static/js/runtime-main.11c89eb1.js",
+    "runtime-main.js.map": "/xmasshuffle/static/js/runtime-main.11c89eb1.js.map",
+    "static/js/2.418949fb.chunk.js": "/xmasshuffle/static/js/2.418949fb.chunk.js",
+    "static/js/2.418949fb.chunk.js.map": "/xmasshuffle/static/js/2.418949fb.chunk.js.map",
+    "index.html": "/xmasshuffle/index.html",
+    "precache-manifest.12da4a258e4dfdd387f4304375283388.js": "/xmasshuffle/precache-manifest.12da4a258e4dfdd387f4304375283388.js",
+    "service-worker.js": "/xmasshuffle/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/xmasshuffle/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/xmasshuffle/static/media/logo.25bf045c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.aec5ed95.js",
+    "static/js/runtime-main.11c89eb1.js",
     "static/js/2.418949fb.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.165bde4a.chunk.js"
+    "static/js/main.af65ca55.chunk.js"
   ]
 }
